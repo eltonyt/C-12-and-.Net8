@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\Vocabulary.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\Vocabulary.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\Vocabulary.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\Vocabulary.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\bin\Debug\net8.0\Vocabulary.exe
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\bin\Debug\net8.0\Vocabulary.deps.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\bin\Debug\net8.0\Vocabulary.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\bin\Debug\net8.0\Vocabulary.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\bin\Debug\net8.0\Vocabulary.pdb
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\Vocabulary.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\refint\Vocabulary.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\Vocabulary.pdb
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\Vocabulary.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Vocabulary\obj\Debug\net8.0\ref\Vocabulary.dll
