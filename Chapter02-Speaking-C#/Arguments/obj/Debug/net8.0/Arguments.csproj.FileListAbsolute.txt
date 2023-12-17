@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\bin\Debug\net8.0\Arguments.exe
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\bin\Debug\net8.0\Arguments.deps.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\bin\Debug\net8.0\Arguments.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\bin\Debug\net8.0\Arguments.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\bin\Debug\net8.0\Arguments.pdb
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\Arguments.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\Arguments.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\Arguments.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\refint\Arguments.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\Arguments.pdb
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\Arguments.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Arguments\obj\Debug\net8.0\ref\Arguments.dll

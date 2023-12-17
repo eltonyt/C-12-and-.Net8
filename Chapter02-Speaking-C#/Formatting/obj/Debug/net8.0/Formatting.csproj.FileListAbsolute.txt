@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\Formatting.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\Formatting.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\Formatting.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\Formatting.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\bin\Debug\net8.0\Formatting.exe
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\bin\Debug\net8.0\Formatting.deps.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\bin\Debug\net8.0\Formatting.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\bin\Debug\net8.0\Formatting.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\bin\Debug\net8.0\Formatting.pdb
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\Formatting.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\refint\Formatting.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\Formatting.pdb
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\Formatting.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Formatting\obj\Debug\net8.0\ref\Formatting.dll

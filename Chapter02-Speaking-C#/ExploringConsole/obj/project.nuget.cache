@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vROivVPl5YsZNLKxj5ctTlUZJ6jR8eWBW5B3w/QnHqeL5dmaLmtfVT6I5T8k3Q2OLBPPcZTrrHUmSl2CX5pmNQ==",
+  "success": true,
+  "projectFilePath": "E:\\github_project\\C-12-and-.Net8\\Chapter02-Speaking-C#\\ExploringConsole\\ExploringConsole.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elton\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
