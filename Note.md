@@ -37,7 +37,7 @@ Steps:
 
 1. New Fold for the solution (PS: .NET has a solution that’s above projects)
 2. Create a solution file in the folder: **dotnet new sln**
-3. Create a folder and project using a template: **dotnet new console -o HelloCS (HelloCS is a template in C#)**
+3. Create a folder and project using a template: **dotnet new console -o HelloCS (*console* is a template in C#)**
 4. Add the folder and its project to the solution: **dotnet sln add HelloCS**
 5. Repeat steps 3 & 4 to create and add any other projects
 6. Open the folder containing the solution using Visual Studio Code: **.code**
