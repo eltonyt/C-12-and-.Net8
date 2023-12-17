@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.exe
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.deps.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\bin\Debug\net8.0\Ch02Ex03Numbers.pdb
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\refint\Ch02Ex03Numbers.dll
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.pdb
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\Ch02Ex03Numbers.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter02-Speaking-C#\Exercise\Ch02Ex03Numbers\obj\Debug\net8.0\ref\Ch02Ex03Numbers.dll
