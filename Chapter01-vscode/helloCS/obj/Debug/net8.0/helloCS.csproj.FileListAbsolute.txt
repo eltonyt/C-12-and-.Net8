@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\bin\Debug\net8.0\helloCS.exe
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\bin\Debug\net8.0\helloCS.deps.json
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\bin\Debug\net8.0\helloCS.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\bin\Debug\net8.0\helloCS.dll
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\bin\Debug\net8.0\helloCS.pdb
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\helloCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\helloCS.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\helloCS.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\helloCS.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\helloCS.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\helloCS.dll
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\refint\helloCS.dll
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\helloCS.pdb
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\helloCS.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\helloCS\obj\Debug\net8.0\ref\helloCS.dll

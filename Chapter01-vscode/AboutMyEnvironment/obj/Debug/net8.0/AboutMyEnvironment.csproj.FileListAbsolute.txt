@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.exe
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.deps.json
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.dll
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.pdb
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.dll
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\refint\AboutMyEnvironment.dll
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.pdb
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\ref\AboutMyEnvironment.dll
