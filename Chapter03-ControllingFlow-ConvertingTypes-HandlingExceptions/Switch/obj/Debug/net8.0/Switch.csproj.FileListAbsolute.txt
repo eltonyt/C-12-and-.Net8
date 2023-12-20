@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\Switch.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\Switch.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\Switch.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\Switch.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\bin\Debug\net8.0\Switch.exe
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\bin\Debug\net8.0\Switch.deps.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\bin\Debug\net8.0\Switch.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\bin\Debug\net8.0\Switch.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\bin\Debug\net8.0\Switch.pdb
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\Switch.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\refint\Switch.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\Switch.pdb
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\Switch.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Switch\obj\Debug\net8.0\ref\Switch.dll

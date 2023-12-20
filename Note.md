@@ -286,3 +286,161 @@ HttpResponseMessage response = await client.GetAsync("http://www.apple.com/");
 // WAIT FOR RESPONSE FINISHED BEFORE WRITING THE LINE
 WriteLine("Apple's home page has {0:N0} bytes.", response.Content.Headers.ContentLength);
 ```
+
+
+
+
+## Chapter 3 - Controlling Flow, Converting Types, and Handling Exceptions
+
+### Operating on variables
+
+- Binary operators
+    
+    ```csharp
+    var result = firstOperand operator secondOperand
+    ```
+    
+- Unary operators
+    
+    ```csharp
+    // x++;	
+    var result = OnlyOperand operator;
+    // ++x;
+    var result = operator OnlyOperand;
+    ```
+    
+- Ternary operators
+    
+    ```csharp
+    // var result = boolean_expression ? value_if_true : value_if_false;
+    var result = firstOperand operator secondOperand operator thirdOperand;
+    ```
+    
+- Binary arithmetic operators
+    - +, -, *, /, %
+- Assignment operators
+    - =, +=, -=, *=, /=
+- **Null-coalescing operators**
+    - either assign a variable to a result or if the variable is null, then assign an alternative value
+    - ?? or ??=
+    
+    ```csharp
+    string? authorName = ReadLine();
+    int maxLength = authorName?.Length ?? 30;
+    authorName ??= "unknown";
+    ```
+    
+- Logic operators
+    - &, |, ^
+    - **XOR - if 2 variables are the same, return 0, if 2 variables are not the same, return 1**
+- Conditional logical operators
+    - &&, ||
+- Bitwise and binary shift operators
+    - <<, >>
+- Miscellaneous operators
+    - nameof()
+    - sizeof()
+
+### Understanding selection statements
+
+- If statement - same as if statement in Java
+    - Pattern matching with the if statement - **is** keyword
+- switch - same as switch statement in Java
+    - Option1
+        
+        ```csharp
+        switch (variable)
+        {
+        	case a:
+        		xxx;
+        		break;
+        	case b:
+        		xxx;
+        		break;
+        	default:
+        		xxx;
+        		break;
+        }
+        ```
+        
+    - Option 2 - only used for assignment, call, increment, decrement, await, and new object expressions
+        
+        ```csharp
+        string result = variable switch
+        {
+        	a => xxx,
+        	b => xxx,
+        	_ => xxx,
+        };
+        WriteLine(result);
+        ```
+        
+    
+
+### Understanding iteration statements
+
+- while - same as while statement in Java
+- for - same as for statement in Java but only for counter incremental
+- foreach - loop through a collection
+
+### Storing multiple values in an array
+
+- 1-dimention
+    - Option 1
+        
+        ```csharp
+        // Same as Java Array
+        string[] test = new string[x];
+        test[0] = "aaa";
+        test[1] = "bbb";
+        test[2] = "ccc";
+        ```
+        
+    - Option 2
+        
+        ```csharp
+        // Little bit different comparing to Java Array - no need to mention the keyword when initializing
+        string[] test = {"aaa", "bbb", "cccc"};
+        ```
+        
+- Multi-dimensions
+    - Option 1
+        
+        ```csharp
+        string[,] test = new string[3, 4];
+        test[0][0] = "aaa";
+        test[0][1] = "bbb";
+        test[0][2] = "ccc";
+        ```
+        
+    - Option 2
+        
+        ```csharp
+        string[,] test = 
+        {
+        	{"aaa", "bbb", "ccc"}
+        }
+        ```
+        
+- List pattern matching with arrays
+    
+    ```csharp
+    [] -> Empty Array or Collection
+    [..] -> an array or collection with any number of items
+    [_] -> a list with any single item
+    [int item1] or [var item1] -> a list with any single item and can refer this item
+    [7, 2] -> a list of two items with those values in that order
+    [_, _] -> matches a list with two items
+    [var item1, var item2] -> matches a list with any two items and can refer these two items
+    [_, _, _] -> a list with any three items
+    [var item1, ..] -> a list with one or more items, can refer item1
+    [var firstItem, .., var lastItem] -> matches a list with two or more items, can refer firstItem and lastItem
+    [.., var lastItem] -> matches a list with one or more items, can refer lastItem
+    ```
+    
+
+### Casting and converting between types
+
+### Handling exceptions
+
+### Checking for overflow
