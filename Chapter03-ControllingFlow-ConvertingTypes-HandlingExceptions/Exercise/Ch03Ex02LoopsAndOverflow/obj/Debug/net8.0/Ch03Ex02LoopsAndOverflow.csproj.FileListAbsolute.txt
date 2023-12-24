@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\Ch03Ex02LoopsAndOverflow.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\Ch03Ex02LoopsAndOverflow.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\Ch03Ex02LoopsAndOverflow.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\Ch03Ex02LoopsAndOverflow.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\Ch03Ex02LoopsAndOverflow.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\bin\Debug\net8.0\Ch03Ex02LoopsAndOverflow.exe
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\bin\Debug\net8.0\Ch03Ex02LoopsAndOverflow.deps.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\bin\Debug\net8.0\Ch03Ex02LoopsAndOverflow.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\bin\Debug\net8.0\Ch03Ex02LoopsAndOverflow.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\bin\Debug\net8.0\Ch03Ex02LoopsAndOverflow.pdb
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\Ch03Ex02LoopsAndOverflow.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\refint\Ch03Ex02LoopsAndOverflow.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\Ch03Ex02LoopsAndOverflow.pdb
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\Ch03Ex02LoopsAndOverflow.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex02LoopsAndOverflow\obj\Debug\net8.0\ref\Ch03Ex02LoopsAndOverflow.dll

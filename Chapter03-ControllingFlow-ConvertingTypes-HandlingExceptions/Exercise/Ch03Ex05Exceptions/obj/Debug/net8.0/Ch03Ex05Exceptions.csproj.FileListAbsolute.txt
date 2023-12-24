@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.exe
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.deps.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.pdb
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\refint\Ch03Ex05Exceptions.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.pdb
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex05Exceptions\obj\Debug\net8.0\ref\Ch03Ex05Exceptions.dll

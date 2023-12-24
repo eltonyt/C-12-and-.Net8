@@ -16,3 +16,5 @@ string[] names = {"a", "b", "c"};
 foreach (string name in names) {
     WriteLine(name);
 }
+
+for (; ;);

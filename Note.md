@@ -290,8 +290,6 @@ WriteLine("Apple's home page has {0:N0} bytes.", response.Content.Headers.Conten
 
 
 
-## Chapter 3 - Controlling Flow, Converting Types, and Handling Exceptions
-
 ### Operating on variables
 
 - Binary operators
@@ -441,6 +439,65 @@ WriteLine("Apple's home page has {0:N0} bytes.", response.Content.Headers.Conten
 
 ### Casting and converting between types
 
-### Handling exceptions
+- Types
+    - Implicit(隐式) - Automatically, always safe (i.e. int to double)
+    - Explicit(显式) - **Manually(need to case)**, may lose information (i.e. double to int - lose information after decimal point)
+- Converting with System.Convert type - used for converting from and to all the C# number types
+    
+    ```csharp
+    using static System.Convert
+    // Example
+    double g = 9.8;
+    int h = ToInt32(g);
+    // h = 10
+    ```
+    
+- Rounding Numbers Rule
+    - ≤ 0.5 → 0
+    - ≥ 0.5 → 1
+    - == 0.5
+        - If integer part is odd, then 1 (9.5 → 10)
+        - if integer part is even, then 0 (10.5 → 10, -12.5 → -12)
+- to String
+    - ToString()
+- Binary to String
+    - ToBase64String()
+- Strings to Numbers, Dates, or Date Times
+    
+    ```csharp
+    using System.Globalization
+    int.Parse(xx);
+    DateTime.Parse(xxxx);
+    ```
+    
+
+### Handling exceptions - Same as try & catch in Java
+
+try & catch
+
+```csharp
+try {
+	xxxx
+}
+catch (Exception ex) {
+	xxxx
+}
+```
+
+**Catching with filters - use when**
+
+```csharp
+try 
+{
+}
+catch (FormatException) when (amount.Contains("$"))
+{
+}
+catch (FormatException)
+{
+}
+```
 
 ### Checking for overflow
+
+OverflowException

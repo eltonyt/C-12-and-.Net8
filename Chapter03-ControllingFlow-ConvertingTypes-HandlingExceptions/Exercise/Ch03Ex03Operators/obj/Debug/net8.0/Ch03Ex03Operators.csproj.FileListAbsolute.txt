@@ -1,0 +1,15 @@
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\bin\Debug\net8.0\Ch03Ex03Operators.exe
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\bin\Debug\net8.0\Ch03Ex03Operators.deps.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\bin\Debug\net8.0\Ch03Ex03Operators.runtimeconfig.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\bin\Debug\net8.0\Ch03Ex03Operators.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\bin\Debug\net8.0\Ch03Ex03Operators.pdb
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\Ch03Ex03Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\Ch03Ex03Operators.AssemblyInfoInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\Ch03Ex03Operators.AssemblyInfo.cs
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\Ch03Ex03Operators.csproj.CoreCompileInputs.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\Ch03Ex03Operators.sourcelink.json
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\Ch03Ex03Operators.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\refint\Ch03Ex03Operators.dll
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\Ch03Ex03Operators.pdb
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\Ch03Ex03Operators.genruntimeconfig.cache
+E:\github_project\C-12-and-.Net8\Chapter03-ControllingFlow-ConvertingTypes-HandlingExceptions\Exercise\Ch03Ex03Operators\obj\Debug\net8.0\ref\Ch03Ex03Operators.dll

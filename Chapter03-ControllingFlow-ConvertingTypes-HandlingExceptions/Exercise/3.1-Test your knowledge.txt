@@ -1,0 +1,15 @@
+1. Exception - Divided by 0 Exception
+2. Exception - Divided by 0 Exception
+3. The value goes to the other side bond value of this range
+	i.e. if overflows the upper bond, the value goes to the smallest value
+	i.e. if overflows the lower bond, the value goes to the biggest value
+4. 	x = y++; -> x = y; then y = y + 1;
+	x = ++y; -> y = y + 1; then x = y;
+5. 	break -> out of the loop
+	continue -> next value in the loop
+	return -> return from the whole function
+6. initialization of a variable; condition; and step function; None of these three are required.
+7. = is for assignment, == is for condition
+8. Yes, it will compile
+9. It means default condition
+10. 
